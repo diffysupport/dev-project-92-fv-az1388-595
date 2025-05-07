@@ -1,12 +1,12 @@
 basic:
-    name: 'Larissa Blick'
+    name: 'Abelardo Denesik MD'
     breakpoints:
         - 640
         - 1024
         - 1200
     pages:
-        - 'https://www.wolff.com/hic-neque-qui-accusamus-pariatur-et-nisi'
-        - 'https://www.kulas.com/qui-ex-est-aut-recusandae-architecto-iste.html'
+        - 'https://www.ruecker.net/ut-est-neque-aut-qui-porro'
+        - 'https://www.armstrong.com/blanditiis-perferendis-quasi-eum-odio.html'
     monitoring:
         days: {  }
         type: ''
